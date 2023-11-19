@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tejasvini!
-- 👀 I’m interested in math, programming and quantitative research.
-- 🌱 I’m currently studying computer science at BITS Pilani, and creating alphas on WorldQuant.
+- 👀 I’m interested in math, competitive programming and quantitative research.
+- 🌱 I’m currently studying computer science at BITS Pilani, and I've previously created 40+ alphas on WorldQuant.
 - 📫 You can reach out on tejasvinig04@gmail.com or on Linkedin https://www.linkedin.com/in/tejasvini-goel/
 
 <!---
