@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Hedging of Financial Derivatives](https://github.com/tejasvinigoel/Hedging-of-Financial-Derivatives)
 
-- 🌱 I’m currently learning **Technical Analysis, Frontend development, ML, AI 📚**
+- 🌱 I’m currently learning **Technical Analysis and Advanced Java 📚**
 
 - 💻 I've previously interned at **Worldquant, where I generated 40+ alphas**
 
