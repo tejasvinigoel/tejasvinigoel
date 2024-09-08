@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasvinigoel&label=Profile%20views&color=0e75b6&style=flat" alt="tejasvinigoel" /> </p>
 
-- 🔭 I’m currently working on [Note-Taking](https://github.com/tejasvinigoel/Note-Taking)
+- 🔭 I’m currently working on [KAN](https://github.com/tejasvinigoel/Kolmogorov-Arnold-Networks-)
 
 - 🌱 I’m currently learning **Technical Analysis and Advanced Java 📚**
 
