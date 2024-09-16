@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [KAN](https://github.com/tejasvinigoel/Kolmogorov-Arnold-Networks-)
 
-- 🌱 I’m currently learning **Technical Analysis and Advanced Java 📚**
+- 🌱 I’m currently learning **Technical Analysis and Python 📚**
 
 - 💻 I've previously interned at **Worldquant, where I generated 40+ alphas**
 
